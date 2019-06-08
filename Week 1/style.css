@@ -1,20 +1,19 @@
 
-#header 
-{
-position: absolute;
-    top: 10px;
-bottom:10px;
-    padding-left:10px;
-    /*margin-right: -10px;
-    margin-left: 14%;*/
- width:97%;
-border: 1px solid black;
-  box-sizing: border-box;
-   
-background-color: #668284;
-border-radius : 5px;
-height:110px;
-color: #ffffff;
+     #header 
+             {
+              position: absolute;
+              top: 10px;
+              bottom:10px;
+              padding-left:10px;
+               /*margin-right: -10px;
+               margin-left: 14%;*/
+               width:97%;
+               border: 1px solid black;
+               box-sizing: border-box;
+               background-color: #668284;
+               border-radius : 5px;
+               height:110px;
+                 color: #ffffff;
 
 }
 .imagec {
