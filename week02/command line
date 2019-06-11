@@ -1,7 +1,7 @@
 
 1. How to create a hidden file and how to display it using ls command.
    //command to create a hidden file
-   touch .filename.ext 
+   touch .filename.exe 
    //command to display hidden files
    ls -a 
 
