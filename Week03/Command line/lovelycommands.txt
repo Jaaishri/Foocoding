@@ -1,0 +1,4 @@
+	cat
+dog
+	ls
+	pwd
