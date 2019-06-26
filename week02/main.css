@@ -20,7 +20,7 @@ margin: auto;
 header{
     width: 100%;
     margin: 0px auto;
-    background-color:#553c8b;
+    background-color:#366ed8;
 }
 h1{
     width: 100%;
@@ -172,7 +172,7 @@ height: 60%;
     header{
         width: 100%;
         margin: 0px auto;
-        background-color:#553c8b;
+        background-color:#366ed8;
     }
     h1{
         width: 100%;
@@ -322,7 +322,7 @@ height: 60%;
       }
 body{
     margin: 0px;
-    color: #553c8b;
+    color: #366ed8;
 }
 h1 ,h2, h3{
     text-align: center;
@@ -331,7 +331,7 @@ h1 ,h2, h3{
 header{
     width: 100%;
     margin: 0px auto;
-    background-color: #553c8b;
+    background-color: #366ed8;
 
 }
 section{
@@ -361,7 +361,7 @@ h2  {
     width: 100%;
     height: 40%;
     padding: 10px;
-    color: #553c8b;
+    color: #366ed8;
     margin-top: 50px;
     animation: h2move 3s;
 }
