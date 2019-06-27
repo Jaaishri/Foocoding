@@ -1,19 +1,20 @@
 
-     #header 
-             {
-              position: absolute;
-              top: 10px;
-              bottom:10px;
-              padding-left:10px;
-               /*margin-right: -10px;
-               margin-left: 14%;*/
-               width:97%;
-               border: 1px solid black;
-               box-sizing: border-box;
-               background-color: #668284;
-               border-radius : 5px;
-               height:110px;
-                 color: #ffffff;
+#header 
+{
+position: absolute;
+    top: 10px;
+bottom:10px;
+    padding-left:10px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+ width:97%;
+border: 1px solid black;
+  box-sizing: border-box;
+   
+background-color: #668284;
+border-radius : 5px;
+height:110px;
+color: #ffffff;
 
 }
 .imagec {
@@ -41,7 +42,7 @@ position: absolute;
 {
     Position: absolute;
   bottom : 40px;
-   margin-left:80%;
+   margin-left:75%;
 	font-size: 15px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
@@ -51,7 +52,7 @@ position: absolute;
      
     Position: absolute;
   bottom : 20px;
-   margin-left:80%;
+   margin-left:75%;
 	font-size: 15px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
@@ -60,7 +61,7 @@ text-decoration: underline;
 #URL{
   Position: absolute;
   bottom : 0px;
-   margin-left:80%;
+   margin-left:75%;
 	
         font-size: 15px;
 	font-family: Verdana, sans-serif;
@@ -70,7 +71,7 @@ text-decoration: underline;
 
 
 a:hover {
-    font-weight: bold ;
+  font-weight: bold ;
   
 }
 
@@ -121,31 +122,29 @@ font-weight: none;}
 font-family: Verdana, sans-serif;
     }
 table
-{width: 80%;
-    border: 1px ridge
-      black;
+{width: 65%;
+    border: none;
     }
 #heading
-{background-color: #668284;
-    font-weight:bold;
 
 
     }
 td
 {
     padding: 2px;
-    border: 1px solid #668284;
+    border: none;
 
+    }
+#course-name
+{
+    font-weight:none;
     }
 
 #personal
 {
     font-weight:bold;
     }
-#personal
-{
-    font-weight:bold;
-}
+
 
 
 
